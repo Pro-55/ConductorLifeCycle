@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conductor LifeCycle</string>
+    <string name="fragment_one_text">Fragment One!</string>
+    <string name="fragment_two_text">Fragment Two!</string>
+    <string name="fragment_three_text">Fragment Three!</string>
+    <string name="first_button">One</string>
+    <string name="second_button">Two</string>
+    <string name="third_button">Three</string>
+</resources>
